@@ -39,6 +39,7 @@ print("word count in file = ",count)
 ```    
 ### OUTPUT:
 
+![Screenshot 2024-01-05 083431](https://github.com/jesu-smartia05/Word-count/assets/148514819/3d41f0dd-1099-4b86-9fa5-6d629a34bac7)
 
 
 ## RESULT:
